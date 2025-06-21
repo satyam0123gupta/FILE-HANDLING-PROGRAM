@@ -22,3 +22,7 @@
 * Read	Opens the file in "r" mode and displays the full content.
 
 
+#OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/05874158-ae6c-4a23-9abb-ac2da4ef99bf)
+
